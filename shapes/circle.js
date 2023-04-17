@@ -1,8 +1,10 @@
-class Circle {
-    constructor(cx, cy, r) {
-        this.cx = cx;
-        this.cy = cy;
+Shapes = require('./shape')
+
+class Circle extends Shapes {
+    constructor(x, y, r) {
+        super(x, y)
+        this.x = x;
+        this.y = y;
         this.r = r
     };
 }
-const cic = new Circle (150, 120, 80)

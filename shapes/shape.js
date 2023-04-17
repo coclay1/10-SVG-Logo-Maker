@@ -1,6 +1,7 @@
 class Shapes {
-    constructor(fill, height, width) {
-
+    constructor(x, y) {
+this.x = x
+this.y = y
     }
 }
 
