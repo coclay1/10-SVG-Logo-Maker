@@ -23,7 +23,7 @@
   This app requires You will need to install inquirer
 
   ## Usage
-  You will need to know how to use inquirer and knowledge of SVG.
+  You will need to know how to use inquirer and knowledge of SVG. [Video Demo](./Untitled_%20Apr%2017%2C%202023%206_30%20PM.webm)
 
   ## Contributors
   [shields.io](https://shields.io/)
